@@ -1,0 +1,2757 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+For online documentation, see http://www.mathworks.com/support
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   21.9470
+
+
+ans =
+
+  -9.7875e-05
+
+Elapsed time is 87.167815 seconds.
+
+i =
+
+     2
+
+1e3 iterations
+
+ans =
+
+    0.9984
+   17.9012
+
+
+ans =
+
+   -1.0094
+
+1e4 iterations
+
+ans =
+
+    0.9993
+   17.9012
+
+
+ans =
+
+   -1.0005
+
+1e5 iterations
+
+ans =
+
+    0.9993
+   19.5473
+
+
+ans =
+
+  -2.1281e-04
+
+Elapsed time is 1049.410811 seconds.
+
+i =
+
+     3
+
+1e3 iterations
+
+ans =
+
+    1.2921
+   16.6667
+
+
+ans =
+
+  -8.5744e-04
+
+Elapsed time is 8.004117 seconds.
+
+i =
+
+     4
+
+1e3 iterations
+
+ans =
+
+    0.5715
+   16.6667
+
+
+ans =
+
+   -1.0009
+
+1e4 iterations
+
+ans =
+
+    0.5715
+   19.1358
+
+
+ans =
+
+  -2.5812e-04
+
+Elapsed time is 86.454900 seconds.
+
+i =
+
+     5
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   13.1686
+
+
+ans =
+
+   -1.0051
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   14.8148
+
+
+ans =
+
+   -0.0022
+
+Elapsed time is 82.578483 seconds.
+
+i =
+
+     6
+
+1e3 iterations
+
+ans =
+
+    1.1527
+   11.1110
+
+
+ans =
+
+   -1.0126
+
+1e4 iterations
+
+ans =
+
+    1.1525
+   12.3443
+
+
+ans =
+
+   -0.0068
+
+Elapsed time is 81.714162 seconds.
+
+i =
+
+     7
+
+1e3 iterations
+
+ans =
+
+    0.2782
+   14.6091
+
+
+ans =
+
+   -1.0041
+
+1e4 iterations
+
+ans =
+
+    0.2786
+   14.8123
+
+
+ans =
+
+   -1.0021
+
+1e5 iterations
+
+ans =
+
+    0.2787
+   16.6667
+
+
+ans =
+
+  -9.3810e-04
+
+Elapsed time is 992.111064 seconds.
+
+i =
+
+     8
+
+1e3 iterations
+
+ans =
+
+    0.3878
+   11.9343
+
+
+ans =
+
+   -0.3297
+
+Elapsed time is 7.698147 seconds.
+
+i =
+
+     9
+
+1e3 iterations
+
+ans =
+
+    0.7854
+    5.5556
+
+
+ans =
+
+   -1.2136
+
+1e4 iterations
+
+ans =
+
+    0.7854
+    8.4362
+
+
+ans =
+
+   -0.0502
+
+Elapsed time is 80.605582 seconds.
+
+i =
+
+    10
+
+1e3 iterations
+
+ans =
+
+    0.6351
+   16.6667
+
+
+ans =
+
+   -1.0009
+
+1e4 iterations
+
+ans =
+
+    0.6351
+   22.0165
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    0.6351
+   25.7202
+
+
+ans =
+
+  -5.3445e-07
+
+Elapsed time is 1054.294668 seconds.
+
+i =
+
+    11
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   21.9403
+
+
+ans =
+
+  -9.8936e-05
+
+Elapsed time is 85.088186 seconds.
+
+i =
+
+    12
+
+1e3 iterations
+
+ans =
+
+    0.9993
+   16.6667
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    0.9993
+   17.9012
+
+
+ans =
+
+   -1.0003
+
+1e5 iterations
+
+ans =
+
+    0.9993
+   19.3861
+
+
+ans =
+
+  -1.5736e-04
+
+Elapsed time is 1103.527743 seconds.
+
+i =
+
+    13
+
+1e3 iterations
+
+ans =
+
+    0.4425
+   16.6667
+
+
+ans =
+
+   -1.0010
+
+1e4 iterations
+
+ans =
+
+    0.4427
+   23.3882
+
+
+ans =
+
+  -2.4297e-05
+
+Elapsed time is 83.686960 seconds.
+
+i =
+
+    14
+
+1e3 iterations
+
+ans =
+
+    0.5715
+   16.6667
+
+
+ans =
+
+   -1.0009
+
+1e4 iterations
+
+ans =
+
+    0.5715
+   19.1358
+
+
+ans =
+
+  -2.5812e-04
+
+Elapsed time is 91.015107 seconds.
+
+i =
+
+    15
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   13.1679
+
+
+ans =
+
+   -1.0047
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   14.8148
+
+
+ans =
+
+   -0.0020
+
+Elapsed time is 94.766507 seconds.
+
+i =
+
+    16
+
+1e3 iterations
+
+ans =
+
+    0.2069
+   21.6049
+
+
+ans =
+
+   -0.0253
+
+Elapsed time is 8.162457 seconds.
+
+i =
+
+    17
+
+1e3 iterations
+
+ans =
+
+    0.2782
+   14.6091
+
+
+ans =
+
+   -1.0041
+
+1e4 iterations
+
+ans =
+
+    0.2786
+   14.8123
+
+
+ans =
+
+   -1.0021
+
+1e5 iterations
+
+ans =
+
+    0.2787
+   16.6667
+
+
+ans =
+
+  -8.3583e-04
+
+Elapsed time is 1062.199891 seconds.
+
+i =
+
+    18
+
+1e3 iterations
+
+ans =
+
+    0.3878
+   11.9343
+
+
+ans =
+
+   -0.3297
+
+Elapsed time is 7.406313 seconds.
+
+i =
+
+    19
+
+1e3 iterations
+
+ans =
+
+    0.5283
+   25.3086
+
+
+ans =
+
+   -1.0001
+
+1e4 iterations
+
+ans =
+
+    0.5282
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.5283
+   29.9726
+
+
+ans =
+
+  -2.6248e-06
+
+Elapsed time is 1085.009319 seconds.
+
+i =
+
+    20
+
+1e3 iterations
+
+ans =
+
+    0.6351
+   16.6667
+
+
+ans =
+
+   -1.0009
+
+1e4 iterations
+
+ans =
+
+    0.6351
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.6351
+   25.7202
+
+
+ans =
+
+  -1.5662e-06
+
+Elapsed time is 1015.525658 seconds.
+
+i =
+
+    21
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0865
+
+
+ans =
+
+  -8.2141e-06
+
+Elapsed time is 82.139239 seconds.
+
+i =
+
+    22
+
+1e3 iterations
+
+ans =
+
+    0.3591
+   27.7778
+
+
+ans =
+
+  -1.1157e-05
+
+Elapsed time is 7.165279 seconds.
+
+i =
+
+    23
+
+1e3 iterations
+
+ans =
+
+    0.4425
+   16.6667
+
+
+ans =
+
+   -1.0010
+
+1e4 iterations
+
+ans =
+
+    0.4427
+   23.4339
+
+
+ans =
+
+  -2.4013e-05
+
+Elapsed time is 78.479605 seconds.
+
+i =
+
+    24
+
+1e3 iterations
+
+ans =
+
+    0.5715
+   16.6667
+
+
+ans =
+
+   -1.0006
+
+1e4 iterations
+
+ans =
+
+    0.5715
+   18.8891
+
+
+ans =
+
+  -1.4690e-04
+
+Elapsed time is 83.390842 seconds.
+
+i =
+
+    25
+
+1e3 iterations
+
+ans =
+
+    0.1652
+   21.6049
+
+
+ans =
+
+   -1.0014
+
+1e4 iterations
+
+ans =
+
+    0.1655
+   22.1164
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.1655
+   22.1994
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 957.168347 seconds.
+
+i =
+
+    26
+
+1e3 iterations
+
+ans =
+
+    0.2069
+   21.6049
+
+
+ans =
+
+   -0.0253
+
+Elapsed time is 7.349142 seconds.
+
+i =
+
+    27
+
+1e3 iterations
+
+ans =
+
+    0.2782
+   14.4719
+
+
+ans =
+
+   -1.0042
+
+1e4 iterations
+
+ans =
+
+    0.2785
+   14.8140
+
+
+ans =
+
+   -1.0022
+
+1e5 iterations
+
+ans =
+
+    0.2787
+   16.6667
+
+
+ans =
+
+  -8.7246e-04
+
+Elapsed time is 976.983696 seconds.
+
+i =
+
+    28
+
+1e3 iterations
+
+ans =
+
+    0.9357
+   18.4957
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.9357
+   22.0165
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    0.9356
+   25.7202
+
+
+ans =
+
+  -5.3441e-07
+
+Elapsed time is 1039.291453 seconds.
+
+i =
+
+    29
+
+1e3 iterations
+
+ans =
+
+    1.1282
+   18.0384
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    1.1282
+   20.3704
+
+
+ans =
+
+   -1.0002
+
+1e5 iterations
+
+ans =
+
+    1.1281
+   23.3605
+
+
+ans =
+
+  -2.4223e-05
+
+Elapsed time is 1016.110383 seconds.
+
+i =
+
+    30
+
+1e3 iterations
+
+ans =
+
+    1.3629
+   21.5327
+
+
+ans =
+
+  -1.3361e-04
+
+Elapsed time is 7.380428 seconds.
+
+i =
+
+    31
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   21.9403
+
+
+ans =
+
+  -9.8936e-05
+
+Elapsed time is 80.317135 seconds.
+
+i =
+
+    32
+
+1e3 iterations
+
+ans =
+
+    0.9984
+   17.9012
+
+
+ans =
+
+   -1.0094
+
+1e4 iterations
+
+ans =
+
+    0.9993
+   17.9012
+
+
+ans =
+
+   -1.0005
+
+1e5 iterations
+
+ans =
+
+    0.9993
+   19.5473
+
+
+ans =
+
+  -2.1281e-04
+
+Elapsed time is 994.745082 seconds.
+
+i =
+
+    33
+
+1e3 iterations
+
+ans =
+
+    1.2921
+   16.6667
+
+
+ans =
+
+  -8.5744e-04
+
+Elapsed time is 7.558059 seconds.
+
+i =
+
+    34
+
+1e3 iterations
+
+ans =
+
+    0.5715
+   16.6667
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    0.5715
+   18.8869
+
+
+ans =
+
+  -1.8207e-04
+
+Elapsed time is 81.986454 seconds.
+
+i =
+
+    35
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   13.1679
+
+
+ans =
+
+   -1.0047
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   14.8147
+
+
+ans =
+
+   -0.0020
+
+Elapsed time is 80.786914 seconds.
+
+i =
+
+    36
+
+1e3 iterations
+
+ans =
+
+    1.1506
+   11.7284
+
+
+ans =
+
+   -1.0269
+
+1e4 iterations
+
+ans =
+
+    1.1525
+   12.3457
+
+
+ans =
+
+   -0.0068
+
+Elapsed time is 80.845873 seconds.
+
+i =
+
+    37
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   18.3128
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0165
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    0.7854
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 1023.615443 seconds.
+
+i =
+
+    38
+
+1e3 iterations
+
+ans =
+
+    0.9357
+   18.5177
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.9357
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.9356
+   25.9031
+
+
+ans =
+
+  -2.6779e-08
+
+Elapsed time is 978.816809 seconds.
+
+i =
+
+    39
+
+1e3 iterations
+
+ans =
+
+    1.1282
+   17.9114
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    1.1282
+   17.9573
+
+
+ans =
+
+   -1.0003
+
+1e5 iterations
+
+ans =
+
+    1.1282
+   23.1790
+
+
+ans =
+
+  -1.4789e-05
+
+Elapsed time is 993.948440 seconds.
+
+i =
+
+    40
+
+1e3 iterations
+
+ans =
+
+    0.6351
+   16.6667
+
+
+ans =
+
+   -1.0010
+
+1e4 iterations
+
+ans =
+
+    0.6351
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.6351
+   25.9031
+
+
+ans =
+
+  -2.6843e-08
+
+Elapsed time is 1096.978284 seconds.
+
+i =
+
+    41
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0165
+
+
+ans =
+
+  -9.6786e-05
+
+Elapsed time is 85.790101 seconds.
+
+i =
+
+    42
+
+1e3 iterations
+
+ans =
+
+    0.9993
+   16.6667
+
+
+ans =
+
+   -1.0007
+
+1e4 iterations
+
+ans =
+
+    0.9993
+   17.9012
+
+
+ans =
+
+   -1.0004
+
+1e5 iterations
+
+ans =
+
+    0.9993
+   19.3420
+
+
+ans =
+
+  -1.7759e-04
+
+Elapsed time is 1044.396443 seconds.
+
+i =
+
+    43
+
+1e3 iterations
+
+ans =
+
+    0.4425
+   16.6667
+
+
+ans =
+
+   -1.0006
+
+1e4 iterations
+
+ans =
+
+    0.4426
+   23.1680
+
+
+ans =
+
+  -1.4684e-05
+
+Elapsed time is 84.602718 seconds.
+
+i =
+
+    44
+
+1e3 iterations
+
+ans =
+
+    0.5715
+   16.6667
+
+
+ans =
+
+   -1.0007
+
+1e4 iterations
+
+ans =
+
+    0.5715
+   19.1358
+
+
+ans =
+
+  -2.1180e-04
+
+Elapsed time is 81.344162 seconds.
+
+i =
+
+    45
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   13.1684
+
+
+ans =
+
+   -1.0045
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   14.8148
+
+
+ans =
+
+   -0.0019
+
+Elapsed time is 75.609673 seconds.
+
+i =
+
+    46
+
+1e3 iterations
+
+ans =
+
+    0.6697
+   24.0741
+
+
+ans =
+
+   -1.0000
+
+1e4 iterations
+
+ans =
+
+    0.6697
+   33.0260
+
+
+ans =
+
+  -2.8044e-06
+
+Elapsed time is 82.704295 seconds.
+
+i =
+
+    47
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   18.3128
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   27.7778
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.7854
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 920.915187 seconds.
+
+i =
+
+    48
+
+1e3 iterations
+
+ans =
+
+    0.9357
+   18.4957
+
+
+ans =
+
+   -1.0001
+
+1e4 iterations
+
+ans =
+
+    0.9357
+   19.6845
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    0.9356
+   25.7888
+
+
+ans =
+
+  -2.4473e-05
+
+Elapsed time is 995.679572 seconds.
+
+i =
+
+    49
+
+1e3 iterations
+
+ans =
+
+    0.5283
+   25.3086
+
+
+ans =
+
+   -1.0001
+
+1e4 iterations
+
+ans =
+
+    0.5282
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.5282
+   25.8573
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 1084.455609 seconds.
+
+i =
+
+    50
+
+1e3 iterations
+
+ans =
+
+    0.6351
+   16.6667
+
+
+ans =
+
+   -1.0010
+
+1e4 iterations
+
+ans =
+
+    0.6351
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.6351
+   25.9031
+
+
+ans =
+
+  -2.6929e-08
+
+Elapsed time is 980.002387 seconds.
+
+i =
+
+    51
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0002
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0165
+
+
+ans =
+
+  -3.7971e-05
+
+Elapsed time is 85.776959 seconds.
+
+i =
+
+    52
+
+1e3 iterations
+
+ans =
+
+    0.3591
+   27.7778
+
+
+ans =
+
+  -1.3068e-04
+
+Elapsed time is 7.027211 seconds.
+
+i =
+
+    53
+
+1e3 iterations
+
+ans =
+
+    0.4425
+   16.6667
+
+
+ans =
+
+   -1.0007
+
+1e4 iterations
+
+ans =
+
+    0.4426
+   23.0557
+
+
+ans =
+
+  -1.1995e-05
+
+Elapsed time is 84.862151 seconds.
+
+i =
+
+    54
+
+1e3 iterations
+
+ans =
+
+    0.5715
+   16.6667
+
+
+ans =
+
+   -1.0009
+
+1e4 iterations
+
+ans =
+
+    0.5715
+   18.9151
+
+
+ans =
+
+  -2.2505e-04
+
+Elapsed time is 82.734515 seconds.
+
+i =
+
+    55
+
+1e3 iterations
+
+ans =
+
+    1.0427
+   16.9410
+
+
+ans =
+
+   -1.0011
+
+1e4 iterations
+
+ans =
+
+    1.0426
+   20.3704
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    1.0425
+   30.5517
+
+
+ans =
+
+  -2.4793e-06
+
+Elapsed time is 1154.254527 seconds.
+
+i =
+
+    56
+
+1e3 iterations
+
+ans =
+
+    1.2118
+   19.2577
+
+
+ans =
+
+   -1.0002
+
+1e4 iterations
+
+ans =
+
+    1.2117
+   27.7778
+
+
+ans =
+
+  -1.0977e-05
+
+Elapsed time is 91.866528 seconds.
+
+i =
+
+    57
+
+1e3 iterations
+
+ans =
+
+    1.4053
+   22.7023
+
+
+ans =
+
+   -1.0000
+
+1e4 iterations
+
+ans =
+
+    1.4052
+   26.7871
+
+
+ans =
+
+  -1.4881e-06
+
+Elapsed time is 100.500138 seconds.
+
+i =
+
+    58
+
+1e3 iterations
+
+ans =
+
+    0.9357
+   18.4499
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.9357
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.9356
+   25.7202
+
+
+ans =
+
+  -1.5662e-06
+
+Elapsed time is 1077.945384 seconds.
+
+i =
+
+    59
+
+1e3 iterations
+
+ans =
+
+    1.1282
+   17.9580
+
+
+ans =
+
+   -1.0005
+
+1e4 iterations
+
+ans =
+
+    1.1282
+   20.3704
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    1.1281
+   23.4111
+
+
+ans =
+
+  -2.3772e-05
+
+Elapsed time is 1094.432063 seconds.
+
+i =
+
+    60
+
+1e3 iterations
+
+ans =
+
+    1.3629
+   21.5327
+
+
+ans =
+
+  -1.3361e-04
+
+Elapsed time is 7.362143 seconds.
+
+i =
+
+    61
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0865
+
+
+ans =
+
+  -8.3197e-06
+
+Elapsed time is 82.493924 seconds.
+
+i =
+
+    62
+
+1e3 iterations
+
+ans =
+
+    0.9993
+   16.6667
+
+
+ans =
+
+   -1.0006
+
+1e4 iterations
+
+ans =
+
+    0.9993
+   17.4897
+
+
+ans =
+
+   -1.0002
+
+1e5 iterations
+
+ans =
+
+    0.9993
+   19.4440
+
+
+ans =
+
+  -6.8045e-05
+
+Elapsed time is 970.124867 seconds.
+
+i =
+
+    63
+
+1e3 iterations
+
+ans =
+
+    1.2921
+   16.6667
+
+
+ans =
+
+  -8.6503e-04
+
+Elapsed time is 7.977286 seconds.
+
+i =
+
+    64
+
+1e3 iterations
+
+ans =
+
+    0.9011
+   24.0741
+
+
+ans =
+
+   -1.0000
+
+1e4 iterations
+
+ans =
+
+    0.9011
+   33.0260
+
+
+ans =
+
+  -2.8134e-06
+
+Elapsed time is 86.647039 seconds.
+
+i =
+
+    65
+
+1e3 iterations
+
+ans =
+
+    1.0427
+   16.9410
+
+
+ans =
+
+   -1.0011
+
+1e4 iterations
+
+ans =
+
+    1.0426
+   20.3704
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    1.0425
+   30.5517
+
+
+ans =
+
+  -2.4793e-06
+
+Elapsed time is 1183.819032 seconds.
+
+i =
+
+    66
+
+1e3 iterations
+
+ans =
+
+    1.2118
+   19.2892
+
+
+ans =
+
+   -1.0001
+
+1e4 iterations
+
+ans =
+
+    1.2117
+   27.7778
+
+
+ans =
+
+  -1.1336e-04
+
+Elapsed time is 91.649047 seconds.
+
+i =
+
+    67
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   18.3128
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   27.7778
+
+
+ans =
+
+   -1.0005
+
+1e5 iterations
+
+ans =
+
+    0.7854
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 972.860903 seconds.
+
+i =
+
+    68
+
+1e3 iterations
+
+ans =
+
+    0.9357
+   18.5177
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.9357
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.9356
+   25.9031
+
+
+ans =
+
+  -2.6843e-08
+
+Elapsed time is 1029.082348 seconds.
+
+i =
+
+    69
+
+1e3 iterations
+
+ans =
+
+    1.1282
+   17.9573
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    1.1282
+   20.3704
+
+
+ans =
+
+   -1.0001
+
+1e5 iterations
+
+ans =
+
+    1.1281
+   23.0591
+
+
+ans =
+
+  -1.1981e-05
+
+Elapsed time is 1021.098031 seconds.
+
+i =
+
+    70
+
+1e3 iterations
+
+ans =
+
+    0.6351
+   16.6667
+
+
+ans =
+
+   -1.0007
+
+1e4 iterations
+
+ans =
+
+    0.6351
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.6351
+   25.8208
+
+
+ans =
+
+  -2.0171e-05
+
+Elapsed time is 1007.774828 seconds.
+
+i =
+
+    71
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0002
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0876
+
+
+ans =
+
+  -3.5220e-05
+
+Elapsed time is 85.944640 seconds.
+
+i =
+
+    72
+
+1e3 iterations
+
+ans =
+
+    0.9993
+   16.6667
+
+
+ans =
+
+   -1.0007
+
+1e4 iterations
+
+ans =
+
+    0.9993
+   17.9012
+
+
+ans =
+
+   -1.0004
+
+1e5 iterations
+
+ans =
+
+    0.9993
+   19.4331
+
+
+ans =
+
+  -1.7145e-04
+
+Elapsed time is 1055.022827 seconds.
+
+i =
+
+    73
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   27.7778
+
+
+ans =
+
+   -1.0002
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.7854
+   25.6516
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 1090.902269 seconds.
+
+i =
+
+    74
+
+1e3 iterations
+
+ans =
+
+    0.9011
+   24.0741
+
+
+ans =
+
+   -1.0000
+
+1e4 iterations
+
+ans =
+
+    0.9011
+   32.9221
+
+
+ans =
+
+  -2.9355e-06
+
+Elapsed time is 100.752271 seconds.
+
+i =
+
+    75
+
+1e3 iterations
+
+ans =
+
+    1.0426
+   16.8496
+
+
+ans =
+
+   -1.0006
+
+1e4 iterations
+
+ans =
+
+    1.0426
+   22.0165
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    1.0425
+   30.0105
+
+
+ans =
+
+  -7.5790e-07
+
+Elapsed time is 1172.352658 seconds.
+
+i =
+
+    76
+
+1e3 iterations
+
+ans =
+
+    0.6697
+   24.0741
+
+
+ans =
+
+   -1.0000
+
+1e4 iterations
+
+ans =
+
+    0.6697
+   32.9244
+
+
+ans =
+
+  -2.9691e-06
+
+Elapsed time is 91.639182 seconds.
+
+i =
+
+    77
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   18.3128
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   27.7778
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.7854
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 1017.213047 seconds.
+
+i =
+
+    78
+
+1e3 iterations
+
+ans =
+
+    0.9357
+   18.4042
+
+
+ans =
+
+   -1.0001
+
+1e4 iterations
+
+ans =
+
+    0.9357
+   21.1934
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.9356
+   25.8942
+
+
+ans =
+
+  -7.9985e-07
+
+Elapsed time is 1087.303644 seconds.
+
+i =
+
+    79
+
+1e3 iterations
+
+ans =
+
+    0.5282
+   25.3086
+
+
+ans =
+
+   -1.0001
+
+1e4 iterations
+
+ans =
+
+    0.5282
+   25.3086
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.5282
+   25.0343
+
+
+ans =
+
+   -1.0000
+
+Elapsed time is 1012.368182 seconds.
+
+i =
+
+    80
+
+1e3 iterations
+
+ans =
+
+    0.6351
+   16.6667
+
+
+ans =
+
+   -1.0007
+
+1e4 iterations
+
+ans =
+
+    0.6351
+   21.1934
+
+
+ans =
+
+   -1.0000
+
+1e5 iterations
+
+ans =
+
+    0.6351
+   25.8954
+
+
+ans =
+
+  -7.7724e-07
+
+Elapsed time is 1279.216585 seconds.
+
+i =
+
+    81
+
+1e3 iterations
+
+ans =
+
+    0.7854
+   17.9012
+
+
+ans =
+
+   -1.0004
+
+1e4 iterations
+
+ans =
+
+    0.7854
+   22.0865
+
+
+ans =
+
+  -8.2042e-06
+
+Elapsed time is 96.181952 seconds.
+
+i =
+
+    82
+
+>> >> >> >> >> >> >> >> Simulation finished
+>> 
